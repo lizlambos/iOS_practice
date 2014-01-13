@@ -112,8 +112,6 @@
 		4BA8FDD8187C5214004A3A73 /* CrystalBall */ = {
 			isa = PBXGroup;
 			children = (
-				4BA8FDE1187C5214004A3A73 /* THAppDelegate.h */,
-				4BA8FDE2187C5214004A3A73 /* THAppDelegate.m */,
 				4BA8FDE4187C5214004A3A73 /* Main.storyboard */,
 				4BA8FDE7187C5214004A3A73 /* THViewController.h */,
 				4BA8FDE8187C5214004A3A73 /* THViewController.m */,
@@ -126,6 +124,8 @@
 		4BA8FDD9187C5214004A3A73 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				4BA8FDE1187C5214004A3A73 /* THAppDelegate.h */,
+				4BA8FDE2187C5214004A3A73 /* THAppDelegate.m */,
 				4BA8FDDA187C5214004A3A73 /* CrystalBall-Info.plist */,
 				4BA8FDDB187C5214004A3A73 /* InfoPlist.strings */,
 				4BA8FDDE187C5214004A3A73 /* main.m */,
